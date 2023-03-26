@@ -28,24 +28,29 @@ a:hover{
 /*Inicio ------------------------------------------------------*/
 #box1{
     background-color:#973AA8;
-    width:90%;
+    width:78%;
     box-shadow: 10px 10px 10px #00000073;
     
 }
 
 #txt_litch{
     color: white;
-    font-size:60px;
+    font-size:50px;
     padding-top: 3%;
     padding-bottom: 3%;
 }
 
 #txt_inicio{
     color: rgb(56, 45, 45);
-    font-size:30px;
+    font-size:25px;
 }
 
+#img{
+    width:80%;
+    height:80%;
+}
 #inicio{
+    padding-top: 6%;
     
 }
 
@@ -82,7 +87,7 @@ a:hover{
 
 #nos{
     background-color: #973AA8;
-    width:40%;
+    width:50%;
     border-radius: 10%;
     box-shadow: 12px 12px 12px #F9BEC7;
 }
@@ -105,7 +110,7 @@ a:hover{
 
 #txt_nos{
     color: white;
-    font-size: 25px;
+    font-size: 30px;
     padding-bottom: 5%;
 }
 
