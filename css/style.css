@@ -9,7 +9,7 @@ body, html{
 /*Navbar*/
 header{
     background-color:#b544e6;
-    box-shadow: 10px 10px 10px #F9BEC7;
+    box-shadow: 5px 5px 5px #F9BEC7;
 }
 
 #item{
@@ -58,7 +58,7 @@ a:hover{
 
 
 #inicio{
-    padding-top: 6%;
+    padding-top: 14%;
     
 }
 
