@@ -1,0 +1,170 @@
+body, html{
+    background: #FAE0E4;
+}
+
+#wrapper{
+    background: #FAE0E4;
+}
+
+/*Navbar*/
+header{
+    background-color:#b544e6;
+    box-shadow: 10px 10px 10px #F9BEC7;
+}
+
+#item{
+    font-size: 25px;
+    color: white;
+}
+
+
+
+a:hover{
+    transform: scale(0.9);
+    border-radius: 20%;
+}
+/*Navbar ------------------------------------------------------*/
+
+/*Inicio ------------------------------------------------------*/
+#box1{
+    background-color:#973AA8;
+    width:90%;
+    box-shadow: 10px 10px 10px #00000073;
+    
+}
+
+#txt_litch{
+    color: white;
+    font-size:60px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+#txt_inicio{
+    color: rgb(56, 45, 45);
+    font-size:30px;
+}
+
+#inicio{
+    
+}
+
+#txtb{
+    font-size: 25px;
+    color: white;
+}
+#botao{
+    background-color:#C05299;
+    box-shadow: 7px 7px 7px #00000073;
+    width: 200px;
+}
+
+#botao:hover{
+    transform: scale(0.95);
+    background-color: #d38f99;
+    box-shadow: 7px 7px 7px #400342;
+}
+#linha{
+    background-color: #973AA8;
+    width: 50%;
+    height:4px;
+
+}
+/*Inicio ------------------------------------------------------*/
+
+
+/*Sobre ------------------------------------------------------*/
+
+#sobre{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#nos{
+    background-color: #973AA8;
+    width:40%;
+    border-radius: 10%;
+    box-shadow: 12px 12px 12px #F9BEC7;
+}
+
+#box2{
+    background-color: #C05299;
+    box-shadow: 12px 12px 12px #F9BEC7;
+}
+
+#txt_sobre{
+    color: white;
+    font-size: 25px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-inline-start: 3%;
+    padding-inline-end: 3%;
+}
+
+
+
+#txt_nos{
+    color: white;
+    font-size: 25px;
+    padding-bottom: 5%;
+}
+
+/*Sobre ------------------------------------------------------*/
+
+
+/*CRIAÇÃO ------------------------------------------------------*/
+
+#criacao{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#box3{
+    background-color: #C05299;
+    box-shadow: 12px 12px 12px #F9BEC7;
+    width: 80%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#litch{
+    background-color:#612577;
+}
+
+#comosurgiu{
+    background-color:#a86ebd;
+
+}
+
+#integrantes{
+    background-color:#a86ebd;
+
+}
+
+#projetos{
+    background-color:#a86ebd;
+
+}
+
+#nephelium{
+    background-color:#a86ebd;
+
+}
