@@ -17,9 +17,7 @@ header{
     color: white;
 }
 
-
-
-a:hover{
+#item:hover{
     transform: scale(0.9);
     border-radius: 20%;
 }
@@ -29,8 +27,7 @@ a:hover{
 #box1{
     background-color:#973AA8;
     width:78%;
-    box-shadow: 10px 10px 10px #00000073;
-    
+    box-shadow: 10px 10px 10px #00000073;   
 }
 
 #txt_litch{
@@ -53,8 +50,6 @@ a:hover{
 #imglichia:hover{
     transform: scale(0.97);
 }
-
-
 
 
 #inicio{
@@ -114,8 +109,6 @@ a:hover{
     padding-inline-end: 3%;
 }
 
-
-
 #txt_nos{
     color: white;
     font-size: 30px;
@@ -155,8 +148,8 @@ a:hover{
 /*Integrantes ------------------------------------------------------*/
 
 #integrantes{
-    background-color: #ff01a6;
-    padding-bottom: 100px;
+    background-color: #a86ebd;
+    padding-bottom: 50px;
     padding-top: 50px;
 }
 
@@ -230,17 +223,19 @@ a:hover{
 
 }
 
-#integrantes{
-    background-color:#a86ebd;
 
-}
+
 
 #projetos{
-    background-color:#a86ebd;
+    
 
 }
 
 #nephelium{
-    background-color:#a86ebd;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
 
+#itemf{
+ 
 }
