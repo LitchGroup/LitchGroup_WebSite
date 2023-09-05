@@ -9,7 +9,7 @@ body, html{
 }
 
 #wrapper{
-    background: #FAE0E4;
+    background: #f2d5da;
 }
 
 /*Navbar*/
@@ -18,15 +18,28 @@ header{
     box-shadow: 3px 3px 3px #F9BEC7;
 }
 
+#logo_nav{
+    height:50px;
+    margin-right: 20px;
+}
+
+#nav{
+    margin-left: auto;
+    margin-right: auto;
+    width: 35rem
+}
+
 #item{
     font-size: 25px;
     color: white;
 }
 
 #item:hover{
-    transform: scale(0.9);
-    border-radius: 20%;
+    transform: scale(0.95);
+    color:#d38f99;
 }
+
+
 /*Navbar ------------------------------------------------------*/
 
 /*Inicio ------------------------------------------------------*/
@@ -128,6 +141,14 @@ header{
 #imglitch:hover{
     transform: scale(0.97);
 }
+
+#imglitch2{
+    height: 300px;
+}
+
+h5{
+    font-size: 100px;
+}
 /*Sobre ------------------------------------------------------*/
 
 
@@ -160,7 +181,7 @@ header{
 /*Integrantes ------------------------------------------------------*/
 
 #integrantes{
-    background-color: #a86ebd;
+    
     padding-bottom: 50px;
     padding-top: 50px;
 }
@@ -177,7 +198,7 @@ header{
 
 
 #linha2{
-    background-color: #F9BEC7;
+    background-color: #973AA8;
     width: 50%;
     height:4px;
 }
@@ -267,24 +288,16 @@ header{
 
 
 
- /*Backgrounds!*/
+ /*Itens do carrossel*/
 
- #segunda{
-    background: rgb(192,82,153);
-    background: linear-gradient(180deg, rgba(192,82,153,1) 0%, rgba(249,190,199,1) 67%, rgba(250,224,228,1) 100%);
+ 
+
+ 
+#titulo{
+    font-size: 35px;
 }
 
- #terceira{
-    background: rgb(250,224,228);
-    background: linear-gradient(180deg, rgba(250,224,228,1) 0%, rgba(249,190,199,1) 60%, rgba(192,82,153,1) 100%);
+#txt_titulo{
+    font-size: 20px;
 }
 
- #quarta{
-    background: rgb(250,224,228);
-    background: linear-gradient(180deg, rgba(250,224,228,1) 34%, rgba(249,190,199,1) 73%, rgba(168,110,189,1) 100%);
-}
-
- #quinta{
-    background: rgb(250,224,228);
-    background: linear-gradient(360deg, rgba(250,224,228,1) 34%, rgba(249,190,199,1) 73%, rgba(168,110,189,1) 100%);
-}
