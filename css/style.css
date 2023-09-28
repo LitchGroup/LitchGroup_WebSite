@@ -52,6 +52,10 @@ header{
     box-shadow: 10px 10px 10px #00000073;   
 }
 
+.banner {
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
+   }
+
 #txt_litch{
     color: white;
     font-size:50px;
@@ -60,7 +64,7 @@ header{
 }
 
 #txt_inicio{
-    color: rgb(247, 247, 247);
+    color: rgb(56, 56, 56);
     font-size:25px;
 }
 
@@ -143,7 +147,7 @@ header{
 }
 
 #imglitch2{
-    height: 200px;
+    height: 250px;
 }
 
 h5{
@@ -294,10 +298,10 @@ h5{
 
  
 #titulo{
-    font-size: 35px;
+    font-size: 30px;
 }
 
 #txt_titulo{
-    font-size: 20px;
+    font-size: 15px;
 }
 
